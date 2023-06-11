@@ -1,0 +1,12 @@
+TRAIN:
+  md_class_weight: 4
+  wsd_class_weight: 1
+  train_epochs: 8
+  train_batch_size: 64
+  val_batch_size: 64
+  lambda_lo: 0.1
+  lambda_hi: 0.8
+DATA:
+  wsd_threshold: 3
+MODEL:
+  dropout: 0.0

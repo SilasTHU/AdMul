@@ -1,0 +1,10 @@
+TRAIN:
+  train_batch_size: 64
+  val_batch_size: 64
+  md_class_weight: 1
+  wsd_class_weight: 1
+  lr: 1e-5
+MODEL:
+  dropout: 0.0
+DATA:
+  wsd_threshold: 8
