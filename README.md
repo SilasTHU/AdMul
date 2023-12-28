@@ -1,6 +1,10 @@
 # AdMul
 This is the official repo for Findings of ACL 2023 paper: Adversarial Multi-task Learning for End-to-end Metaphor Detection
 
+# Requirements
+transformers==4.18.0
+numpy==1.21.3
+
 ## data download: 
 https://drive.google.com/file/d/12grrfN1BJOcU6ClH4yJxJSymvaF9DY4j/view?usp=drive_link
 
